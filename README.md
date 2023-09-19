@@ -3,6 +3,28 @@
 ## Introduction
 This web app allows the user to follow a sports league (ranking, teams, calendar and games) as well as manage its key elements such as the teams and games.
 
+[**(Visit the deployed app)**](https://sports-league.fly.dev/)
+
+<p align='center' >
+    <img alt="League1" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/dc651929-7cdc-4a1f-af23-0b4d3c4cc908" width="30%">
+    <img alt="league_Calendar" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/fd8a386a-df16-44a6-82f1-8013e00937d1" width="30%">
+    <img  alt="league_Auth_user_Teams_mgmt" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/f7f725fd-8b2b-4b74-95d5-7ea9814353a7" width="30%">
+</p>
+
+<br/>
+
+<p align='center'>
+    <img  alt="league_Auth_user_Game_Edit" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/c2a82cf4-855f-4de4-b28e-f31a0599620f" width="30%">
+    <img alt="league_Auth_user_Games_mgmt" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/e0f8b1be-2b1b-4ae6-82dc-858ca7dc2898" width="30%">
+    <img alt="league_Auth_user_Home" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/a8706ab7-90c7-489d-abbd-dad0e228f1a6" width="30%">
+</p>
+
+<p align='center'>
+    <img alt="league_Auth_user_Show_Team" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/97319ff1-f204-4764-9495-9b637752cbd5" width="30%">
+    <img alt="league_Auth_user_Team_Edit" src="https://github.com/Edvenan/Laravel-PHP-Livewire-Sports-League-App/assets/97369106/b135443a-2ae7-4dab-91b8-963fa570a49f" width="30%">
+</p>
+
+
 ## Architecture
 The app has been developed using Laravel - PHP framework and following a MVC design pattern. \
 The CRUD functions have been architectured as follows:
